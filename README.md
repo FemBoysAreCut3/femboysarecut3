@@ -23,6 +23,7 @@ Feel free to check out my work or get in touch:
 * **[LogCleaner](https://github.com/femboysarecut3/LogCleaner)** - Deletes Old Server Logs 
 * **[Pings](https://github.com/femboysarecut3/Pings)** - Pings just Like on Discord 
 * **[EntityManager](https://github.com/femboysarecut3/EntityManager)** - Advanced Mob Control with Per World Whitelist/Blacklist System 
+[And many More...](https://modrinth.com/user/FemBoysAreCute/plugins)
 
 ---
 
