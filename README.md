@@ -22,7 +22,8 @@ Feel free to check out my work or get in touch:
 * **[AutoServerUpdater](https://github.com/femboysarecut3/AutoServerUpdater)** - Automatically updates the server to the latest build for your version 
 * **[LogCleaner](https://github.com/femboysarecut3/LogCleaner)** - Deletes Old Server Logs 
 * **[Pings](https://github.com/femboysarecut3/Pings)** - Pings just Like on Discord 
-* **[EntityManager](https://github.com/femboysarecut3/EntityManager)** - Advanced Mob Control with Per World Whitelist/Blacklist System 
+* **[EntityManager](https://github.com/femboysarecut3/EntityManager)** - Advanced Mob Control with Per World Whitelist/Blacklist System
+  
 [And many More...](https://modrinth.com/user/FemBoysAreCute/plugins)
 
 ---
